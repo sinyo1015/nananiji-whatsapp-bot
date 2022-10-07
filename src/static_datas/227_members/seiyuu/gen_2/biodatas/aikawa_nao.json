@@ -1,0 +1,35 @@
+{
+    "name" : "相川奈央",
+    "kana_name" : "あいかわなお",
+    "romanji_name" : "Aikawa Nao",
+    "generation" : 2,
+    "icon": "🎀",
+    "profile_picture" : "assets/seiyuu_pictures/gen_2/AikawaNao.png",
+    "nicknames" : [
+        "Nao", "Naotyan", "Thia"
+    ],
+    "birthday_date" : "6 July",
+    "hobbies" : [
+        "Membuat manisan", "Membaca manga"
+    ],
+    "skills" : [
+        "Membuat ekspresi wajah", "Copywriting"
+    ],
+    "commentary" : "My dream is to make everyone smile, and I'll be mockingly charming ♡ Please support me!",
+    "character_voice" : "西浦そら",
+    "character_voice_romanji" : "Nishiura Sora",
+    "links" : [
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/nao_aikawa227"
+        },
+        {
+            "type" : "Blog",
+            "link" : "http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ct=13"
+        },
+        {
+            "type" : "Official",
+            "link" : "https://nanabunnonijyuuni.com/s/n129/artist/a13"
+        }
+    ]
+}

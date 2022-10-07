@@ -1,0 +1,31 @@
+{
+    "name" : "西條和",
+    "kana_name" : "さいじょうなごみ",
+    "romanji_name" : "Saijo Nagomi",
+    "generation" : 1,
+    "icon": "🦋",
+    "profile_picture" : "assets/seiyuu_pictures/gen_1/SaijoNagomi.png",
+    "nicknames" : [
+        "Nagomin", "Nagotan", "Nago", "U-chan", "Funya-funya"
+    ],
+    "birthday_date" : "25 Juli",
+    "hobbies" : [
+        "Menonton video tentang memahat sabun", "Menonton video tentang memeras spons"
+    ],
+    "skills" : [
+        "Bisa menentukan musim dari mencium udaranya"
+    ],
+    "commentary" : "I'm a quiet girl from Kansai. I can't do anything for now, but will try my best to change myself. If you keep your eye on me, it would make happy",
+    "character_voice" : "滝川みう",
+    "character_voice_romanji" : "Takigawa Miu",
+    "links" : [
+        {
+            "type" : "Official",
+            "link" : "https://nanabunnonijyuuni.com/s/n129/artist/a4?ima=1752"
+        },
+        {
+            "type" : "Blog",
+            "link" : "https://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ct=04"
+        }
+    ]
+}

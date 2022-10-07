@@ -1,0 +1,35 @@
+{
+    "name" : "月城咲舞",
+    "kana_name" : "つきしろえま",
+    "romanji_name" : "Tsukishiro Emma",
+    "generation" : 2,
+    "icon": "⚡",
+    "profile_picture" : "assets/seiyuu_pictures/gen_2/TsukishiroEmma.png",
+    "nicknames" : [
+        "Emmatcha"
+    ],
+    "birthday_date" : "22 Mei",
+    "hobbies" : [
+        "Menari dan Menyanyi", "Mendengarkan musik"
+    ],
+    "skills" : [
+        "Tongue Twister", "Melompat seperti ninja"
+    ],
+    "commentary" : "I'm Tsukishiro Emma, in charge of electric shock! Special Nananiji Crush!",
+    "character_voice" : "氷室みず姫",
+    "character_voice_romanji" : "Mizuki Himuro",
+    "links" : [
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/emma_tsukishiro"
+        },
+        {
+            "type" : "Blog",
+            "link" : "http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ct=19"
+        },
+        {
+            "type" : "Official",
+            "link" : "https://nanabunnonijyuuni.com/s/n129/artist/a19"
+        }
+    ]
+}

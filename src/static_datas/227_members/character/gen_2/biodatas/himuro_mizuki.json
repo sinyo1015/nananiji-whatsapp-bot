@@ -1,0 +1,25 @@
+{
+    "name" : "氷室みず姫",
+    "kana_name" : "",
+    "romanji_name" : "Himuro Mizuki",
+    "generation" : 2,
+    "profile_picture" : "assets/character_pictures/gen_2/HimuroMizuki_Mini.png",
+    "seiyuu" : "Tsukishiro Emma (月城咲舞)",
+    "birthday_date" : "10 Desember",
+    "birth_place" : "Fukuoka",
+    "age": "None",
+    "height": "None",
+    "commentary": "",
+    "character_designer" : "Akio Watanabe",
+    "character_designer_serie" : "<Monogatari> Series, \"Fireworks, Should You See It from the Bottom or the Side?\"",
+    "links" : [
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/_himuromizuki"
+        },
+        {
+            "type" : "Official",
+            "link" : "https://nanabunnonijyuuni.com/s/n129/page/c18"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name" : "西浦そら",
+    "kana_name" : "",
+    "romanji_name" : "Nishiura Sora",
+    "generation" : 2,
+    "profile_picture" : "assets/character_pictures/gen_2/NishiuraSora_Mini.png",
+    "seiyuu" : "Aikawa Nao (相川奈央)",
+    "birthday_date" : "None",
+    "birth_place" : "Tokyo",
+    "age": "15",
+    "height": "None",
+    "commentary": "",
+    "character_designer" : "Saki Takahashi (高橋沙妃)",
+    "character_designer_serie" : "\"Wonder Egg Priority\"",
+    "links" : [
+        {
+            "type" : "Official",
+            "link" : "https://nanabunnonijyuuni.com/s/n129/page/c17"
+        },
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/_nishiurasora"
+        }
+    ]
+}

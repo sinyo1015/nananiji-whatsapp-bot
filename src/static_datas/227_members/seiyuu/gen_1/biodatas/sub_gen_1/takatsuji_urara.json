@@ -1,0 +1,43 @@
+{
+    "name" : "高辻麗",
+    "kana_name" : "たかつじうらら",
+    "romanji_name" : "Takatsuji Urara",
+    "generation" : 1,
+    "icon": "🐈",
+    "profile_picture" : "assets/seiyuu_pictures/gen_1/TakatsujiUrara.png",
+    "nicknames" : [
+        "Rettan", "Iku-chan"
+    ],
+    "birthday_date" : "9 April 2001",
+    "hobbies" : [
+        "Anime Appreciator", "Mengumpulkan merchandise bertemakan kucing"
+    ],
+    "skills" : [
+        "Tetap Tenang", "Berpikiran Positif"
+    ],
+    "commentary" : "My goal is to become a full-fledged voice actor! I will do my best to do what I like.",
+    "character_voice" : "東条悠希",
+    "character_voice_romanji" : "Tojo Yuki",
+    "links" : [
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/hinagaurara"
+        },
+        {
+            "type" : "Blog",
+            "link" : "https://note.com/hinagaurara"
+        },
+        {
+            "type" : "Instagram",
+            "link" : "https://www.instagram.com/hinagaurara"
+        },
+        {
+            "type" : "Youtube",
+            "link" : "https://youtube.com/channel/UCpljjuJjgvUubfeasgw4PBA"
+        },
+        {
+            "type" : "Official (Archive)",
+            "link" : "https://web.archive.org/web/20210103091216/https://nanabunnonijyuuni.com/s/n129/search/artist"
+        }
+    ]
+}

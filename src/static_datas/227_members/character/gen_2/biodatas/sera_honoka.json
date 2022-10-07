@@ -1,0 +1,25 @@
+{
+    "name" : "瀬良穂乃花",
+    "kana_name" : "",
+    "romanji_name" : "Sera Honoka",
+    "generation" : 2,
+    "profile_picture" : "assets/character_pictures/gen_2/SeraHonoka_Mini.png",
+    "seiyuu" : "Mochizuki Rino (望月りの)",
+    "birthday_date" : "9 Februari",
+    "birth_place" : "None",
+    "age": "15",
+    "height": "None",
+    "commentary": "",
+    "character_designer" : "Noizi Ito (いとうのいぢ)",
+    "character_designer_serie" : "\"Shakugan no Shana\" series \"Haruhi Suzumiya\" series",
+    "links" : [
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/_serahonoka"
+        },
+        {
+            "type" : "Official",
+            "link" : "https://nanabunnonijyuuni.com/s/n129/page/c15"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name" : "帆風千春",
+    "kana_name" : "ほかぜちはる",
+    "romanji_name" : "Hokaze Chiharu",
+    "generation" : 1,
+    "icon": "⛵",
+    "profile_picture" : "assets/seiyuu_pictures/gen_1/HokazeChiharu.png",
+    "nicknames" : [
+        "Chiharun", "Terakawa Chiharu (New Name)"
+    ],
+    "birthday_date" : "10 April",
+    "hobbies" : [
+        "Bermain game", "Okra"
+    ],
+    "skills" : [
+        "Positif Thinking", "Memberi saran yang baik"
+    ],
+    "commentary" : "Laughter is the key to happiness! My aim is to become an admirable voice actor. I want to become a person loved by all generations.",
+    "character_voice" : "佐藤麗華",
+    "character_voice_romanji" : "Sato Reika",
+    "links" : [
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/chiharu_okr"
+        },
+        {
+            "type" : "Twitter (Archive)",
+            "link" : "https://web.archive.org/web/20190516012407/https://twitter.com/c_hokaze227"
+        },
+        {
+            "type" : "Official (Archive)",
+            "link" : "https://web.archive.org/web/20210103091216/https://nanabunnonijyuuni.com/s/n129/search/artist"
+        },
+        {
+            "type" : "Agency",
+            "link" : "https://hibiki-cast.jp/hibiki_f/961/"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name" : "河野都",
+    "kana_name" : "",
+    "romanji_name" : "Kono Miyako",
+    "generation" : 1,
+    "profile_picture" : "assets/character_pictures/gen_1/KonoMiyako_Mini.png",
+    "seiyuu" : "Kuraoka Mizuha (倉岡水巴)[Graduated]",
+    "birthday_date" : "20 Desember",
+    "birth_place" : "Osaka",
+    "age": "17",
+    "height": "155 cm",
+    "commentary": "A talkative girl from Naniwa. She is a cheerful and bright Kansai native, and has a family saying about her stupidity and tsukkomi. She's the eldest of seven siblings, so she's good at taking care of others. Her specialty is okonomiyaki. Her specialty is sewing.",
+    "character_designer" : "Mieko Hosoi (細居美恵子)",
+    "character_designer_serie" : "\"Grimgar of Ashes and Illusion\" \"Aimed School\" \"Aiura\"",
+    "links" : [
+        {
+            "type" : "Official",
+            "link" : "https://nanabunnonijyuuni.com/s/n129/page/c1"
+        },
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/_konomiyako"
+        },
+        {
+            "type" : "Youtube",
+            "link" : "https://www.youtube.com/embed/fphp5NfDBfQ"
+        }
+    ]
+}

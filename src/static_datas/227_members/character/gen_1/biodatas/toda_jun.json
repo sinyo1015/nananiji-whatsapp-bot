@@ -1,0 +1,25 @@
+{
+    "name" : "戸田ジュン",
+    "kana_name" : "",
+    "romanji_name" : "Toda Jun",
+    "generation" : 1,
+    "profile_picture" : "assets/character_pictures/gen_1/TodaJun_Mini.png",
+    "seiyuu" : "Umino Ruri (海乃るり)[Graduated]",
+    "birthday_date" : "14 Mei",
+    "birth_place" : "Toyama",
+    "age": "15",
+    "height": "148 cm",
+    "commentary": "15 years old who loves sweets. She looks small and childish, but she aims to be the number one idol in the world and she has limitless possibilities. Her life is an amusement park. Her motto is to live happily.",
+    "character_designer" : "Masayoshi Tanaka (田中将賀)",
+    "character_designer_serie" : "\"We still don't know the name of the flower we saw that day.\" \"My heart wants to scream.\" \"Your name.\"",
+    "links" : [
+        {
+            "type" : "Official",
+            "link" : "https://nanabunnonijyuuni.com/s/n129/page/c6"
+        },
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/_todajun"
+        }
+    ]
+}

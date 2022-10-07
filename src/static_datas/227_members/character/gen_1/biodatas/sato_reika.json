@@ -1,0 +1,29 @@
+{
+    "name" : "佐藤麗華",
+    "kana_name" : "",
+    "romanji_name" : "Sato Reika",
+    "generation" : 1,
+    "profile_picture" : "assets/character_pictures/gen_1/SatoReika_Mini.png",
+    "seiyuu" : "Hokaze Chiharu (帆風千春)[Graduated]",
+    "birthday_date" : "20 Mei",
+    "birth_place" : "Aichi",
+    "age": "17",
+    "height": "162 cm",
+    "commentary": "The 22/7 leader who hates crookedness. Although she looks perfect, she is actually lacking, and is adored by the members as a ponkotsu. She is good at all household chores and weak against machines.",
+    "character_designer" : "Hirokazu Koyama (こやまひろかず)[TYPE-MOON]",
+    "character_designer_serie" : "\"Fate/Grand Order\" \"Wizard's Night\"",
+    "links" : [
+        {
+            "type" : "Official",
+            "link" : "https://nanabunnonijyuuni.com/s/n129/page/c3"
+        },
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/_satoreika"
+        },
+        {
+            "type" : "Youtube",
+            "link" : "https://www.youtube.com/embed/lwRl_lg3NqU"
+        }
+    ]
+}

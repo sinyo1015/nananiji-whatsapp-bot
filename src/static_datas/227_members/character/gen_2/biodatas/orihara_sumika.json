@@ -1,0 +1,25 @@
+{
+    "name" : "織原純佳",
+    "kana_name" : "",
+    "romanji_name" : "Orihara Sumika",
+    "generation" : 2,
+    "profile_picture" : "assets/character_pictures/gen_2/OriharaSumika_Mini.png",
+    "seiyuu" : "Shiina Satsuki (椎名桜月)",
+    "birthday_date" : "22 Oktober",
+    "birth_place" : "Yamanashi",
+    "age": "16",
+    "height": "None",
+    "commentary": "",
+    "character_designer" : "Mel Kishida (岸田メル)",
+    "character_designer_serie" : "\"Atelier Rorona -The Alchemist of Arland-\", \"Hanasaku Iroha\"",
+    "links" : [
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/_oriharasumika"
+        },
+        {
+            "type" : "Official",
+            "link" : "https://nanabunnonijyuuni.com/s/n129/page/c13"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name" : "斎藤ニコル",
+    "kana_name" : "",
+    "romanji_name" : "Saito Nicole",
+    "generation" : 1,
+    "profile_picture" : "assets/character_pictures/gen_1/SaitoNicole_Mini.png",
+    "seiyuu" : "Kawase Uta (河瀬詩)",
+    "birthday_date" : "7 Juli",
+    "birth_place" : "Kanagawa",
+    "age": "16",
+    "height": "162 cm",
+    "commentary": "A smiling and dancing entertainer. She has a stoic personality and always strives to become an ideal idol. Because she has a high sense of professionalism, she often speaks harsh words to others. she loves rabbits",
+    "character_designer" : "Kurehito Misaki (深崎暮人)",
+    "character_designer_serie" : "\"Saekano: How to Raise a Boring Girlfriend\"",
+    "links" : [
+        {
+            "type" : "Official",
+            "link" : "https://nanabunnonijyuuni.com/s/n129/page/c2"
+        },
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/_saitonicole"
+        },
+        {
+            "type" : "Youtube",
+            "link" : "https://www.youtube.com/embed/uajSGH--3yk"
+        }
+    ]
+}

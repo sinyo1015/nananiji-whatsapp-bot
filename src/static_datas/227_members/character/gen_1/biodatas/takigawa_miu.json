@@ -1,0 +1,29 @@
+{
+    "name" : "滝川みう",
+    "kana_name" : "",
+    "romanji_name" : "Takigawa Miu",
+    "generation" : 1,
+    "profile_picture" : "assets/character_pictures/gen_1/TakigawaMiu_Mini.png",
+    "seiyuu" : "Saijo Nagomi (西條和)",
+    "birthday_date" : "14 Maret",
+    "birth_place" : "Saitama",
+    "age": "16",
+    "height": "156 cm",
+    "commentary": "A realist who hates beauty. She has a personality that is not good at talking to people, but she was working part-time in the hospitality industry to support her family. She favorite thing is poetry, and her special skill is the piano. She has no motor nerves at all.",
+    "character_designer" : "Yukiko Horiguchi (堀口悠紀子)",
+    "character_designer_serie" : "\"K-ON!\" \"Tamako Market\"",
+    "links" : [
+        {
+            "type" : "Official",
+            "link" : "https://nanabunnonijyuuni.com/s/n129/page/c4"
+        },
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/_takigawamiu"
+        },
+        {
+            "type" : "Youtube",
+            "link" : "https://www.youtube.com/embed/X7X9cly4J7I"
+        }
+    ]
+}

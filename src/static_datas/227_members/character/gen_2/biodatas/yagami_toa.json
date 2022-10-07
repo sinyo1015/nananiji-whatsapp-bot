@@ -1,0 +1,25 @@
+{
+    "name" : "八神叶愛",
+    "kana_name" : "",
+    "romanji_name" : "Yagami Toa",
+    "generation" : 2,
+    "profile_picture" : "assets/character_pictures/gen_2/YagamiToa_Mini.png",
+    "seiyuu" : "Amaya Oto (雨夜音)",
+    "birthday_date" : "14 Januari",
+    "birth_place" : "Kanagawa",
+    "age": "15",
+    "height": "None",
+    "commentary": "",
+    "character_designer" : "(堀口悠紀子)",
+    "character_designer_serie" : "\"K-ON!\" \"Tamako Market\"",
+    "links" : [
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/_yagamitoa"
+        },
+        {
+            "type" : "Official",
+            "link" : "https://nanabunnonijyuuni.com/s/n129/page/c19"
+        }
+    ]
+}

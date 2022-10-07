@@ -1,0 +1,35 @@
+{
+    "name" : "花川芽衣",
+    "kana_name" : "はなかわめい",
+    "romanji_name" : "Hanakawa Mei",
+    "generation" : 1,
+    "icon" : "🐰",
+    "profile_picture" : "assets/seiyuu_pictures/gen_1/HanakawaMei.png",
+    "nicknames" : [
+        "Mei", "MeiMei", "Yui Asakura (Kamen Rider)"
+    ],
+    "birthday_date" : "8 Juni 1996",
+    "hobbies" : [
+        "Menonton Anime", "Mencari pakaian imut", "Mengkoleksi merchandise anime"
+    ],
+    "skills" : [
+        "Bermain Rhythm Game", "Membuat snack", "Menggambar"
+    ],
+    "commentary" : "I love cute things. I'll work hard to deliver the best voice performance to everyone! I'm in your care.",
+    "character_voice" : "斎藤ニコル",
+    "character_voice_romanji" : "Saito Nicole",
+    "links" : [
+        {
+            "type" : "Official (Archived)",
+            "link" : "https://web.archive.org/web/20191206120419/http://www.nanabunnonijyuuni.com/artist"
+        },
+        {
+            "type" : "Agency",
+            "link" : "https://libera-japan.com/artist/asakurayui.php"
+        },
+        {
+            "type" : "Instagram",
+            "link" : "https://www.instagram.com/_asakurayui/"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name" : "河瀬詩",
+    "kana_name" : "かわせうた",
+    "romanji_name" : "Kawase Uta",
+    "generation" : 1,
+    "icon": "🎼",
+    "profile_picture" : "assets/seiyuu_pictures/gen_1/KawaseUta.png",
+    "nicknames" : [
+        "Uta-chan", "Utacchi"
+    ],
+    "birthday_date" : "Februari 27",
+    "hobbies" : [
+        "Pergi ke karaoke", "Tenis", "Tidur siang"
+    ],
+    "skills" : [
+        "Drum", "Tracing gambar"
+    ],
+    "commentary" : "Hi, I'm Uta Kawase. I'll do my best to grow day-by-day and become a person who can shine, so I'd be really happy if you could support me!",
+    "character_voice" : "斎藤ニコル",
+    "character_voice_romanji" : "Saito Nicole",
+    "links" : [
+        {
+            "type" : "Official",
+            "link" : "https://nanabunnonijyuuni.com/s/n129/artist/a12?ima=1752"
+        },
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/kawase_uta_0227"
+        },
+        {
+            "type" : "Instagram",
+            "link" : "https://www.instagram.com/kawase_uta"
+        },
+        {
+            "type" : "Blog",
+            "link" : "http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ct=12"
+        }
+    ]
+}

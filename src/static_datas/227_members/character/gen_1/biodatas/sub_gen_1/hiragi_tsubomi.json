@@ -1,0 +1,25 @@
+{
+    "name" : "柊つぼみ",
+    "kana_name" : "",
+    "romanji_name" : "Hiragi Tsubomi",
+    "generation" : 1,
+    "profile_picture" : "assets/character_pictures/gen_1/HiiragiTsubomi_Mini.png",
+    "seiyuu" : "Takeda Aina (武田愛奈)[Graduated]",
+    "birthday_date" : "4 Januari",
+    "birth_place" : "Tokyo",
+    "age": "17",
+    "height": "158 cm",
+    "commentary": "Today's JK with light glue. I love photos, selfies, and distribution that shine. She claims to have been born in Shibuya and raised in Harajuku, but when she gets angry, she speaks Tsugaru dialect. Her motto is \"A scratch other than death.\" Her favorite place is Nescafe.",
+    "character_designer" : "Mel Kishida (岸田メル)",
+    "character_designer_serie" : "\"Atelier Rorona -The Alchemist of Arland-\", \"Hanasaku Iroha\"",
+    "links" : [
+        {
+            "type" : "Official",
+            "link" : "https://nanabunnonijyuuni.com/s/n129/page/c11"
+        },
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/_tsubomihiiragi"
+        }
+    ]
+}

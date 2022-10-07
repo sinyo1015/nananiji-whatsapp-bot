@@ -1,0 +1,35 @@
+{
+    "name" : "清井美那",
+    "kana_name" : "きよいみな",
+    "romanji_name" : "Kiyoi Mina",
+    "generation" : 2,
+    "icon": "🍀",
+    "profile_picture" : "assets/seiyuu_pictures/gen_2/KiyoiMina.png",
+    "nicknames" : [
+        "Minarun"
+    ],
+    "birthday_date" : "23 September",
+    "hobbies" : [
+        "Menjelajah alam", "Bermain dengan binatang", "Berdansa"
+    ],
+    "skills" : [
+        "Flash Mental Arithmetic (Menebak angka dengan melihatnya sekilas)", "Berbicara dengan kucing", "Merangkai kata-kata"
+    ],
+    "commentary" : "I'm Mina Kiyoi, a pacifist from Rikejo in the mountains! I may be small, but I'll do my best to be dynamic!",
+    "character_voice" : "永峰楓",
+    "character_voice_romanji" : "Nagamine Kaede",
+    "links" : [
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/mina_kiyoi227"
+        },
+        {
+            "type" : "Official",
+            "link" : "https://nanabunnonijyuuni.com/s/n129/artist/a16"
+        },
+        {
+            "type" : "Blog",
+            "link" : "http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ct=16"
+        }
+    ]
+}

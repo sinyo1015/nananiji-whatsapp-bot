@@ -1,0 +1,35 @@
+{
+    "name" : "椎名桜月",
+    "kana_name" : "しいなさつき",
+    "romanji_name" : "Shiina Satsuki",
+    "generation" : 2,
+    "icon": "🐹",
+    "profile_picture" : "assets/seiyuu_pictures/gen_2/ShiinaSatsuki.png",
+    "nicknames" : [
+        "Shiichan", "Tsukii"
+    ],
+    "birthday_date" : "27 Maret",
+    "hobbies" : [
+        "Menonton anime", "Membaca manga dan novel", "Tidur"
+    ],
+    "skills" : [
+        "Gitar", "Trombone", "Bermain dengan hidungnya"
+    ],
+    "commentary" : "I'm Shiina Satsuki! I have a hamster. I'd like to grow up a lot from now on. I'm looking forward to working with you!",
+    "character_voice" : "織原純佳",
+    "character_voice_romanji" : "Orihara Sumika",
+    "links" : [
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/satsuki_shiina"
+        },
+        {
+            "type" : "Blog",
+            "link" : "http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ct=17"
+        },
+        {
+            "type" : "Official",
+            "link" : "https://nanabunnonijyuuni.com/s/n129/artist/a17"
+        }
+    ]
+}

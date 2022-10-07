@@ -1,0 +1,35 @@
+{
+    "name" : "武田愛奈",
+    "kana_name" : "たけだあいな",
+    "romanji_name" : "Takeda Aina",
+    "generation" : 1,
+    "icon": "🍓",
+    "profile_picture" : "assets/seiyuu_pictures/gen_1/TakedaAina.png",
+    "nicknames" : [
+        "Aina", "Ainacchi", "Nacchi"
+    ],
+    "birthday_date" : "5 Maret 1998",
+    "hobbies" : [
+        "Jurnalistik"
+    ],
+    "skills" : [
+        "Packing tas"
+    ],
+    "commentary" : "My dream is to give smiles and energy to many people ♪ I will do my best with everything!",
+    "character_voice" : "柊つぼみ",
+    "character_voice_romanji" : "Hiiragi Tsubomi",
+    "links" : [
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/nachichi_35"
+        },
+        {
+            "type" : "Twitter (Archive)",
+            "link" : "https://web.archive.org/web/20220103062328/https://twitter.com/aina__227"
+        },
+        {
+            "type" : "Official (Archive)",
+            "link" : "https://web.archive.org/web/20210103091216/https://nanabunnonijyuuni.com/s/n129/search/artist"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name" : "宮瀬玲奈",
+    "kana_name" : "みやせれいな",
+    "romanji_name" : "Miyase Reina",
+    "generation" : 1,
+    "icon": "👑",
+    "profile_picture" : "assets/seiyuu_pictures/gen_1/MiyaseReina.png",
+    "nicknames" : [
+        "Reinyan", "Rei"
+    ],
+    "birthday_date" : "26 May",
+    "hobbies" : [
+        "Sinema dan Teater", "Mengunjungi kafe", "Membaca", "Shogi"
+    ],
+    "skills" : [
+        "Mencari charm point dari seseorang", "Dipanggil cantik ketika memegang sumpit"
+    ],
+    "commentary" : "Gratitude x Smiling X Challenges. I'll give my best effort for everything.",
+    "character_voice" : "立川絢香",
+    "character_voice_romanji" : "Tachikawa Ayaka",
+    "links" : [
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/reinyan_0526"
+        },
+        {
+            "type" : "Instagram",
+            "link" : "https://www.instagram.com/reinyan_0526/"
+        },
+        {
+            "type" : "Official",
+            "link" : "https://nanabunnonijyuuni.com/s/n129/artist/a11?ima=1353"
+        },
+        {
+            "type" : "Blog",
+            "link" : "http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ct=08"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "name" : "天城サリー",
+    "kana_name" : "あまきさりー",
+    "romanji_name" : "Amaki Sarii (Sally)",
+    "generation" : 1,
+    "icon" : "🐨",
+    "profile_picture" : "assets/seiyuu_pictures/gen_1/AmakiSally.png",
+    "nicknames" : [
+        "Sally", "Sa-chan", "Tenchan"
+    ],
+    "birthday_date" : "April 26",
+    "hobbies" : [
+        "Halu", "Memancing"
+    ],
+    "skills" : [
+        "Ice Skating", "Menahan Nafas", "Menangkap Kumbang" 
+    ],
+    "commentary" : "I'm the cynical but cheerful otaku, Sally Amaki! Both my appetite and my smile are American-sized!",
+    "character_voice" : "藤間桜",
+    "character_voice_romanji" : "Fujima Sakura",
+    "links" : [
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/sally_amaki"
+        },
+        {
+            "type" : "Official Profile",
+            "link" : "https://nanabunnonijyuuni.com/s/n129/artist/a1?ima=4458"
+        },
+        {
+            "type" : "Blog",
+            "link" : "http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ct=01"
+        },
+        {
+            "type" : "Instagram",
+            "link" : "https://www.instagram.com/sallyamaki/"
+        },
+        {
+            "type" : "Youtube",
+            "link" : "https://www.youtube.com/channel/UCi4UjmN8HSi16sAhh_iEb6w"
+        }
+    ]
+}

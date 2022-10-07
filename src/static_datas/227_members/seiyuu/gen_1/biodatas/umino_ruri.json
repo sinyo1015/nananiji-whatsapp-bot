@@ -1,0 +1,31 @@
+{
+    "name" : "海乃るり",
+    "kana_name" : "うみのるり",
+    "romanji_name" : "Umino Ruri",
+    "generation" : 1,
+    "icon": "🏖️",
+    "profile_picture" : "assets/seiyuu_pictures/gen_1/UminoRuri.png",
+    "nicknames" : [
+        "Ruurii", "Yoshimiya Ruri (New Name)"
+    ],
+    "birthday_date" : "8 Agustus",
+    "hobbies" : [
+        "Memandangi alam", "Belajar meniru ekspresi wajah idol"
+    ],
+    "skills" : [
+        "Seruling", "Kendo"
+    ],
+    "commentary" : "I will do my best to become a memorable person even after 100 years. Please take care of me.",
+    "character_voice" : "戸田ジュン",
+    "character_voice_romanji" : "Toda Jun",
+    "links" : [
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/ru_ri_88"
+        },
+        {
+            "type" : "Official (Archive)",
+            "link" : "https://web.archive.org/web/20210103091216/https://nanabunnonijyuuni.com/s/n129/search/artist"
+        }
+    ]
+}

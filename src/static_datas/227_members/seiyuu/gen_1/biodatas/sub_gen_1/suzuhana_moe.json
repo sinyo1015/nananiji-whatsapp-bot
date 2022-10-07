@@ -1,0 +1,35 @@
+{
+    "name" : "涼花萌",
+    "kana_name" : "すずはなもえ",
+    "romanji_name" : "Suzuhana Moe",
+    "generation" : 1,
+    "icon": "🐣",
+    "profile_picture" : "assets/seiyuu_pictures/gen_1/SuzuhanaMoe.png",
+    "nicknames" : [
+        "Moe-chan", "Moeppi", "Moepiyo"
+    ],
+    "birthday_date" : "29 Desember",
+    "hobbies" : [
+        "Memelihara dan memandang burung", "Bermain bersama burung"
+    ],
+    "skills" : [
+        "Rapi-rapi", "Laundry"
+    ],
+    "commentary" : "I look forward to meeting everyone so I'll do my best.",
+    "character_voice" : "神木みかみ",
+    "character_voice_romanji" : "Kamiki Mikami",
+    "links" : [
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/moepiyo_227"
+        },
+        {
+            "type" : "Blog",
+            "link" : "http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ct=09"
+        },
+        {
+            "type" : "Instagram",
+            "link" : "https://www.instagram.com/moepiyo227"
+        }
+    ]
+}

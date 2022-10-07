@@ -1,0 +1,35 @@
+{
+    "name" : "四条月",
+    "kana_name" : "しじょうるな",
+    "romanji_name" : "Shijou Luna",
+    "generation" : 2,
+    "icon": "🌙",
+    "profile_picture" : "assets/seiyuu_pictures/gen_2/ShijoLuna.png",
+    "nicknames" : [
+        "Lunachann"
+    ],
+    "birthday_date" : "2 Juni",
+    "hobbies" : [
+        "Meneliti kosmetik", "Mengumpulkan barang yang berhubungan dengan bulan"
+    ],
+    "skills" : [
+        "Tarian Indonesia", "Membaca skrip berita"
+    ],
+    "commentary" : "I want to be the one who can light up everyone like the moon.",
+    "character_voice" : "一之瀬蛍",
+    "character_voice_romanji" : "Ichinose Hotaru",
+    "links" : [
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/luna_shijo227"
+        },
+        {
+            "type" : "Blog",
+            "link" : "http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ct=18"
+        },
+        {
+            "type" : "Official",
+            "link" : "https://nanabunnonijyuuni.com/s/n129/artist/a18"
+        }
+    ]
+}

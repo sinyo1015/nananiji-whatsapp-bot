@@ -1,0 +1,29 @@
+{
+    "name" : "立川絢香",
+    "kana_name" : "",
+    "romanji_name" : "Tachikawa Ayaka",
+    "generation" : 1,
+    "profile_picture" : "assets/character_pictures/gen_1/TachikawaAyaka_Mini.png",
+    "seiyuu" : "Miyase Reina (宮瀬玲奈)",
+    "birthday_date" : "11 November",
+    "birth_place" : "Tokyo",
+    "age": "17",
+    "height": "160 cm",
+    "commentary": "Somewhat like an older sister to the grown-up members. She has a refreshing personality and she has the leeway of an adult to watch her surroundings from a step back. She's 22/7 sexy and good at games. She's actually a cartoonist.",
+    "character_designer" : "Koharu Sakura (さくら小春)[QP: flapper]",
+    "character_designer_serie" : "Girl Friend Beta (ガールフレンド（仮）)",
+    "links" : [
+        {
+            "type" : "Official",
+            "link" : "https://nanabunnonijyuuni.com/s/n129/page/c5"
+        },
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/_tachikawaayaka"
+        },
+        {
+            "type" : "Youtube",
+            "link" : "https://www.youtube.com/embed/0eiqPNTS7Vk"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name" : "麻丘真央",
+    "kana_name" : "あさおかまお",
+    "romanji_name" : "Asaoka Mao",
+    "generation" : 2,
+    "icon": "🤺",
+    "profile_picture" : "assets/seiyuu_pictures/gen_2/AsaokaMao.png",
+    "nicknames" : [
+        "Maosuke"
+    ],
+    "birthday_date" : "6 Oktober",
+    "hobbies" : [
+        "Mencari tipe coklat terbaru", "Latihan dengan \"Tarian Diet\"", "Menjadi otaku dari idol"
+    ],
+    "skills" : [
+        "Olahraga Anggar (Fencing)", "Seremonial dengan teh", "Ballet"
+    ],
+    "commentary" : "My family calls me the fairy who travels from outer space. The way I see it I'm a little different and mysterious. I want to be happy together with you all as the Nananiji family! Please support me!",
+    "character_voice" : "桐生塔子",
+    "character_voice_romanji" : "Kiryu Touko",
+    "links" : [
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/mao_asaoka227"
+        },
+        {
+            "type" : "Official",
+            "link" : "https://nanabunnonijyuuni.com/s/n129/artist/a14"
+        },
+        {
+            "type" : "Blog",
+            "link" : "http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ct=14"
+        }
+    ]
+}

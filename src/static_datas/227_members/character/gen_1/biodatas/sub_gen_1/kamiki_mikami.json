@@ -1,0 +1,25 @@
+{
+    "name" : "神木みかみ",
+    "kana_name" : "",
+    "romanji_name" : "Kamiki Mikami",
+    "generation" : 1,
+    "profile_picture" : "assets/character_pictures/gen_1/KamikiMikami_Mini.png",
+    "seiyuu" : "Suzuhana Moe (涼花萌)",
+    "birthday_date" : "2 Oktober",
+    "birth_place" : "Kyoto",
+    "age": "16",
+    "height": "161 cm",
+    "commentary": "A humble daughter who is at her own pace. She may appear to be calm and absent-minded, but she was raised strictly as the eldest daughter of a Japanese dance master, so her etiquette is solid. She is from Kyoto and she loves birds.",
+    "character_designer" : "Kouhaku Kuroboshi (黒星紅白)",
+    "character_designer_serie" : "\"Kino's Journey\" series, \"Sword Art Online Alternative Gun Gale Online\"",
+    "links" : [
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/_mikamikamiki"
+        },
+        {
+            "type" : "Official",
+            "link" : "https://nanabunnonijyuuni.com/s/n129/page/c9"
+        }
+    ]
+}

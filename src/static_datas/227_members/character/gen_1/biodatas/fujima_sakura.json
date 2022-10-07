@@ -1,0 +1,29 @@
+{
+    "name" : "藤間桜",
+    "kana_name" : "",
+    "romanji_name" : "Fujima Sakura",
+    "generation" : 1,
+    "profile_picture" : "assets/character_pictures/gen_1/FujimaSakura_Mini.png",
+    "seiyuu" : "Amaki Sally (天城サリー)",
+    "birthday_date" : "3 Maret",
+    "birth_place" : "Los Angeles",
+    "age": "16",
+    "height": "158 cm",
+    "commentary": "A returnee who grew up in Los Angeles. She has a free-spirited and gentle personality and thinks about everything positively. That's why I always look happy. My favorite food is the \"tataki plum cucumber\" made by my grandmother.",
+    "character_designer" : "Kantoku (カントク)",
+    "character_designer_serie" : "\"The Perverted Prince and the Unsmiling Cat.\" \"Glass Flowers and the Destroyed World\" \"Magical Suite Prism Nana\"",
+    "links" : [
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/_fujimasakura"
+        },
+        {
+            "type" : "Youtube",
+            "link" : "https://www.youtube.com/embed/khK6n0kx0E0"
+        },
+        {
+            "type" : "Official",
+            "link" : "https://nanabunnonijyuuni.com/s/n129/page/c7"
+        }
+    ]
+}

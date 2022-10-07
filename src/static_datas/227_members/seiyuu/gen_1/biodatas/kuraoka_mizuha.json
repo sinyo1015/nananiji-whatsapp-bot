@@ -1,0 +1,39 @@
+{
+    "name" : "倉岡水巴",
+    "kana_name" : "くらおかみずは",
+    "romanji_name" : "Kuraoka Mizuha",
+    "generation" : 1,
+    "icon": "🤣",
+    "profile_picture" : "assets/seiyuu_pictures/gen_1/KuraokaMizuha.png",
+    "nicknames" : [
+        "Mizzy", "Mizuhan", "Kurappi", "Kuramaru Riko (New Name)"
+    ],
+    "birthday_date" : "21 Juni 1998",
+    "hobbies" : [
+        "Anime Appreciator", "Menonton acara televisi dini hari"
+    ],
+    "skills" : [
+        "Clarinet", "Menggulung Rice Cake"
+    ],
+    "commentary" : "I will do my best as the Kansai representative in 22/7!!!!",
+    "character_voice" : "河野都",
+    "character_voice_romanji" : "Miyako Kono",
+    "links" : [
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/kura_maru_maru"
+        },
+        {
+            "type" : "Twitter (Archive)",
+            "link" : "https://web.archive.org/web/20211206033552/https://twitter.com/mizuha_227"
+        },
+        {
+            "type" : "Official (Archive)",
+            "link" : "https://web.archive.org/web/20211231155955/https://nanabunnonijyuuni.com/s/n129/search/artist"
+        },
+        {
+            "type" : "Agency",
+            "link" : "https://www.maimupro.co.jp/profile/16954/"
+        }
+    ]
+}

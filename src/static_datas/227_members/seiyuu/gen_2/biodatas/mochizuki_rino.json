@@ -1,0 +1,35 @@
+{
+    "name" : "望月りの",
+    "kana_name" : "もちづきりの",
+    "romanji_name" : "Mochizuki Rino",
+    "generation" : 2,
+    "icon": "👸🏻",
+    "profile_picture" : "assets/seiyuu_pictures/gen_2/MochizukiRino.png",
+    "nicknames" : [
+        "Rinochi"
+    ],
+    "birthday_date" : "29 Maret",
+    "hobbies" : [
+        "Menonton film horor", "Bernyanyi", "Menggambar portrait"
+    ],
+    "skills" : [
+        "Cheerleading", "Makan dalam kuantitas banyak"
+    ],
+    "commentary" : "With a full-blown cheerleading smile, I'm rushing into your hearts! I'm clumsy, but I'll do my best.",
+    "character_voice" : "瀬良穂乃花",
+    "character_voice_romanji" : "Sera Honoka",
+    "links" : [
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/rino_mochizuki"
+        },
+        {
+            "type" : "Official",
+            "link" : "https://nanabunnonijyuuni.com/s/n129/artist/a20"
+        },
+        {
+            "type" : "Blog",
+            "link" : "http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ct=20"
+        }
+    ]
+}

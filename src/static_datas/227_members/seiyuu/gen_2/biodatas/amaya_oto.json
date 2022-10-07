@@ -1,0 +1,35 @@
+{
+    "name" : "雨夜音",
+    "kana_name" : "あまやおと",
+    "romanji_name" : "Amaya Oto",
+    "generation" : 2,
+    "icon": "☔",
+    "profile_picture" : "assets/seiyuu_pictures/gen_2/AmayaOto.png",
+    "nicknames" : [
+        "Oto", "Otobou", "Onchan"
+    ],
+    "birthday_date" : "31 Agustus",
+    "hobbies" : [
+        "Anime", "Game", "Travelling"
+    ],
+    "skills" : [
+        "Renang", "Piano", "Ballet", "Menggambar portrait"
+    ],
+    "commentary" : "I am inexperienced and do not know everything, but I will do my best. I look forward to working with you.",
+    "character_voice" : "八神叶愛",
+    "character_voice_romanji" : "Yagami Toa",
+    "links" : [
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/oto_amaya227"
+        },
+        {
+            "type" : "Blog",
+            "link" : "http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ct=15"
+        },
+        {
+            "type" : "Official",
+            "link" : "https://nanabunnonijyuuni.com/s/n129/artist/a15"
+        }
+    ]
+}

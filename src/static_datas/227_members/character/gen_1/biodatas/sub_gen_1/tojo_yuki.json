@@ -1,0 +1,25 @@
+{
+    "name" : "東条悠希",
+    "kana_name" : "",
+    "romanji_name" : "Tojo Yuki",
+    "generation" : 1,
+    "profile_picture" : "assets/character_pictures/gen_1/TojoYuki_Mini.png",
+    "seiyuu" : "Takatsuji Urara (高辻麗)[Terminated Contract]",
+    "birthday_date" : "28 April",
+    "birth_place" : "Kagoshima",
+    "age": "15",
+    "height": "150 cm",
+    "commentary": "Athletic type like the main character of shonen manga. She has a passionate personality when she sets a goal, and she is proud of her ability to go all over the country in her favorite soccer. She is not good at acting cute. Her dream is to become a national idol.",
+    "character_designer" : "Akio Watanabe (渡辺明夫)",
+    "character_designer_serie" : "<Monogatari> Series, \"Fireworks, Should You See It from the Bottom or the Side?\"",
+    "links" : [
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/_yukitojo"
+        },
+        {
+            "type" : "Official",
+            "link" : "https://nanabunnonijyuuni.com/s/n129/page/c10"
+        }
+    ]
+}

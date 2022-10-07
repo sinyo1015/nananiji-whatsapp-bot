@@ -1,0 +1,39 @@
+{
+    "name" : "白沢かなえ",
+    "kana_name" : "しろさわかなえ",
+    "romanji_name" : "Shirosawa Kanae",
+    "generation" : 1,
+    "icon": "🌷",
+    "profile_picture" : "assets/seiyuu_pictures/gen_1/ShirosawaKanae.png",
+    "nicknames" : [
+        "Kanae", "Kanaerun", "Shirochan"
+    ],
+    "birthday_date" : "Juli 18",
+    "hobbies" : [
+        "Menonton game \"Let's Plays\"", "Menyendiri saat naik kereta"
+    ],
+    "skills" : [
+        "Membuat busana", "Tracing desain busana"
+    ],
+    "commentary" : "The arches of my feet are completely flat and that secretly worries me. I look forward to working with everyone.",
+    "character_voice" : "丸山あかね",
+    "character_voice_romanji" : "Maruyama Akane",
+    "links" : [
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/kanae_shirosawa"
+        },
+        {
+            "type" : "Instagram",
+            "link" : "https://www.instagram.com/__shiro227/"
+        },
+        {
+            "type" : "Official",
+            "link" : "https://nanabunnonijyuuni.com/s/n129/artist/a5?ima=1752"
+        },
+        {
+            "type" : "Blog",
+            "link" : "http://blog.nanabunnonijyuuni.com/s/n227/diary/blog/list?ct=05"
+        }
+    ]
+}

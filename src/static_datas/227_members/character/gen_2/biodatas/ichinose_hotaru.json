@@ -1,0 +1,25 @@
+{
+    "name" : "一之瀬蛍",
+    "kana_name" : "",
+    "romanji_name" : "Ichinose Hotaru",
+    "generation" : 2,
+    "profile_picture" : "assets/character_pictures/gen_2/IchinoseHotaru_Mini.png",
+    "seiyuu" : "Shijo Luna (四条月)",
+    "birthday_date" : "23 Juni",
+    "birth_place" : "Indonesia",
+    "age": "None",
+    "height": "None",
+    "commentary": "",
+    "character_designer" : "Hirokazu Koyama (こやまひろかず)[TYPE-MOON]",
+    "character_designer_serie" : "\"Fate/Grand Order\" \"Wizard's Night\"",
+    "links" : [
+        {
+            "type" : "Official",
+            "link" : "https://nanabunnonijyuuni.com/s/n129/page/c12"
+        },
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/_ichinosehotaru"
+        }
+    ]
+}

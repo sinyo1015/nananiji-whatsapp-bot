@@ -1,0 +1,29 @@
+{
+    "name" : "丸山あかね",
+    "kana_name" : "",
+    "romanji_name" : "Maruyama Akane",
+    "generation" : 1,
+    "profile_picture" : "assets/character_pictures/gen_1/MaruyamaAkane_Mini.png",
+    "seiyuu" : "Shirosawa Kanae (白沢かなえ)",
+    "birthday_date" : "8 September",
+    "birth_place" : "Hokkaido",
+    "age": "16",
+    "height": "160 cm",
+    "commentary": "A rational brain that is always calm. Because there are few emotional ups and downs and many statements and actions are based on logic, they are often seen as robots. She is good at cooking and her hobby is collecting bath salts. Pi can be measured up to 100 digits",
+    "character_designer" : "Ohara Tometa (QP: flapper)",
+    "character_designer_serie" : "Girl Friend Beta (ガールフレンド（仮）)",
+    "links" : [
+        {
+            "type" : "Official",
+            "link" : "https://nanabunnonijyuuni.com/s/n129/page/c8"
+        },
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/_maruyamaakane"
+        },
+        {
+            "type" : "Youtube",
+            "link" : "https://www.youtube.com/embed/1_LXPgCIvzY"
+        }
+    ]
+}

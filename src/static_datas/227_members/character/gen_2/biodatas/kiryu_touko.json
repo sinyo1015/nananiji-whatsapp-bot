@@ -1,0 +1,25 @@
+{
+    "name" : "桐生塔子",
+    "kana_name" : "",
+    "romanji_name" : "Kiryu Touko",
+    "generation" : 2,
+    "profile_picture" : "assets/character_pictures/gen_2/KiryuTouko_Mini.png",
+    "seiyuu" : "Asaoka Mao (麻丘真央)",
+    "birthday_date" : "10 Mei",
+    "birth_place" : "None",
+    "age": "15",
+    "height": "None",
+    "commentary": "",
+    "character_designer" : "Yougen (ゆーげん)",
+    "character_designer_serie" : "\"Heaven Burns Red\" \"Sophie/Phyllis/Lydie & Suelle's Atelier\"",
+    "links" : [
+        {
+            "type" : "Official",
+            "link" : "https://nanabunnonijyuuni.com/s/n129/page/c14"
+        },
+        {
+            "type" : "Twitter",
+            "link" : "https://twitter.com/_kiryutouko"
+        }
+    ]
+}
