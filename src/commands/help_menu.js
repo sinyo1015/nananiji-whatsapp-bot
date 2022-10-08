@@ -1,3 +1,5 @@
+const REGISTERS = require("../command_registry");
+
 /**
  * Determine what command should be called.
  */
@@ -16,8 +18,7 @@ const PATTERN = "#help";
  *  - args: Additional parameters
  */
 const CALLBACK = (message, client, ...args) => {
-    console.log("Hit");
-    message.reply("Euy");
+    message.reply(`Perintah yang tersedia _${Object.keys(REGISTERS).join(", ")}_`);
 };
 
 module.exports = {COMMAND, PATTERN, CALLBACK};

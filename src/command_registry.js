@@ -1,4 +1,4 @@
-const HELP = require('./commands/template.js');
+const HELP = require('./commands/help_menu.js');
 const TWITTER_HOOK = require('./commands/twitter_hook.js');
 const STICKER_MAKER = require('./commands/sticker_maker.js');
 const SEIYUU_BIO = require('./commands/seiyuu_bio.js');

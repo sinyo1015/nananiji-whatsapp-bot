@@ -8,6 +8,7 @@
 ## Prerequisite
 - Node.js ^v.16.x
 - For Linux users, [see here](https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md)
+- Imagemagick
 
 ## How to run?
 - Use npm/yarn or other package manager as you like to install dependencies

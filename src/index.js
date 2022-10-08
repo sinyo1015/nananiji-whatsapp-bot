@@ -9,7 +9,7 @@ const BOT_MODE = require('./constants/bot_mode');
 const client = new Client({
     authStrategy: new LocalAuth(),
     puppeteer: {
-        headless: false,
+        headless: true,
         args: [
             '--no-zygote',
             '--log-level=3',
@@ -79,7 +79,7 @@ client.on('message', msg => {
             shebangCheck = msg.body[0] === "#";
 
     if(check && shebangCheck){
-        msg.reply("Tidak dapat menemukan perintah yang sesuai. Ketik #help untuk melihat daftar perintah");
+        msg.reply("Ketik #help untuk melihat daftar perintah. Untuk melihat bantuan setiap perintah, tambahkan *help* setelah perintah, misal _#seiyuu help_");
         return;
     }
     
