@@ -24,7 +24,7 @@ const ACTION = async (client, ...args) => {
                     let tweetInfo = user.data[0];
                     if(tweetInfo?.id_str !== latestUpdate?.latest_tweet_id){
                         let image = tweetInfo.entities.media !== undefined ? tweetInfo.entities.media[0].media_url_https : undefined;
-                        textToSend += `*@${username.username}:*\n\n` + tweetInfo?.full_text;
+                        textToSend += `[Twitter Feed]\n*@${username.username}:*\n\n` + tweetInfo?.full_text;
                         try{
                             let translatedText = await translate(tweetInfo?.full_text, {from: "ja", to: "id"});
                             textToSend += "\n\n*[Translate ID]*\n\n" + translatedText?.text; 
