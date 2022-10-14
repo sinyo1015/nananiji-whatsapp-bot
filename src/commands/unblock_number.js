@@ -25,7 +25,7 @@ const CALLBACK = (message, client, ...args) => {
     }
 
     try{
-        db.prepare("DELETE FROM whatsapp_number WHERE whatsapp_number = ?").run(split[1]);
+        db.prepare("DELETE FROM blocked_whatsapp_numbers WHERE whatsapp_number = ?").run(split[1]);
 
         message.reply("Berhasil menghapus blocklist");
     }
