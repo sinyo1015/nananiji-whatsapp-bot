@@ -11,55 +11,54 @@ const db = new Database('local.db', { verbose: console.log });
 
 const UPDATE_INTERVAL = 30000; //In milliseconds
 
-const ACTION = async (client, ...args) => {
+const ACTION = (client, ...args) => {
     setInterval(() => {
         console.log(`[Twitter Hook Service]Starting sync at ${new Date().toISOString().slice(0, 10) + " " + new Date().toLocaleTimeString('id-ID')}`);
-        try{
+        try {
             let usernameHooks = db.prepare("SELECT * FROM twitter_username_hooks").all();
-            try{
-                for(const username of usernameHooks){
-                    setTimeout(async () => {
+            for (const username of usernameHooks) {
+                setTimeout(async () => {
+                    try {
                         let textToSend = "";
                         let latestUpdate = db.prepare("SELECT * FROM twitter_latest_updates WHERE username_id = ?").get(username.id);
-                        let user = await twitterInstance.v1.userTimelineByUsername(username.username, {"exclude_replies" : true, "include_entities" : true, "count" : 1});
+                        let user = await twitterInstance.v1.userTimelineByUsername(username.username, { "exclude_replies": true, "include_entities": true, "count": 1 });
                         let tweetInfo = user.data[0];
-                        if(tweetInfo?.id_str !== latestUpdate?.latest_tweet_id){
+                        if (tweetInfo?.id_str !== latestUpdate?.latest_tweet_id) {
                             let image = tweetInfo.entities.media !== undefined ? tweetInfo.entities.media[0].media_url_https : undefined;
                             textToSend += `[Twitter Feed]\n*@${username.username}:*\n\n` + tweetInfo?.full_text;
-                            try{
-                                let translatedText = await translate(tweetInfo?.full_text, {from: "ja", to: "id"});
-                                textToSend += "\n\n*[Translate ID]*\n\n" + translatedText?.text; 
+                            try {
+                                let translatedText = await translate(tweetInfo?.full_text, { from: "ja", to: "id" });
+                                textToSend += "\n\n*[Translate ID]*\n\n" + translatedText?.text;
                             }
-                            catch(err){
+                            catch (err) {
                                 //Ignore translate errors
                             }
-                            if(latestUpdate === undefined){
+                            if (latestUpdate === undefined) {
                                 db.prepare("INSERT INTO twitter_latest_updates VALUES(?, ?, ?, ?, ?)").run(null, username.id, tweetInfo.id_str, new Date().toISOString().slice(0, 10) + " " + new Date().toLocaleTimeString('id-ID'), new Date().toISOString().slice(0, 10) + " " + new Date().toLocaleTimeString('id-ID'));
                             }
-                            else{
+                            else {
                                 db.prepare("UPDATE twitter_latest_updates SET latest_tweet_id = ?, updated_at = ? WHERE username_id = ?").run(tweetInfo.id_str, new Date().toISOString().slice(0, 10) + " " + new Date().toLocaleTimeString('id-ID'), username.id);
                             }
-    
-                            if(image !== undefined){
+
+                            if (image !== undefined) {
                                 let mediaSend = await MessageMedia.fromUrl(image);
                                 await client.sendMessage(process.env.GROUP_CHAT_NUMBER, mediaSend, {
                                     caption: textToSend
                                 });
                             }
-                            else{
+                            else {
                                 await client.sendMessage(process.env.GROUP_CHAT_NUMBER, textToSend);
                             }
                             await new Promise((res, rej) => setTimeout(res, 5000));
                         }
-                        
-                    }, 5000);
-                }
-            }
-            catch(err){
-                //Ignore
+                    }
+                    catch (error) {
+                        //Ignore    
+                    }
+                }, 5000);
             }
         }
-        catch(err){
+        catch (err) {
             console.log(["err", err]);
         }
         console.log(`[Twitter Hook Service]Finish sync at ${new Date().toISOString().slice(0, 10) + " " + new Date().toLocaleTimeString('id-ID')}`);
