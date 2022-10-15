@@ -1,7 +1,7 @@
 require('dotenv').config();
 const { Client, LocalAuth } = require('whatsapp-web.js');
 const qrcode = require('qrcode-terminal');
-const REGISTERS = require('./command_registry');
+const COMMAND_REGISTER = require('./command_registry');
 const SERVICES = require('./service_registry');
 const BOOTSTRAPS = require('./bootstrap_registry');
 const BOT_MODE = require('./constants/bot_mode');
@@ -9,7 +9,7 @@ const BOT_MODE = require('./constants/bot_mode');
 const client = new Client({
     authStrategy: new LocalAuth(),
     puppeteer: {
-        headless: true,
+        headless: false,
         args: [
             '--no-zygote',
             '--log-level=3',
@@ -74,16 +74,7 @@ client.on('ready', () => {
 });
 
 client.on('message', msg => {
-    const   split = msg.body.split(" "),
-            check = REGISTERS[split[0]] === undefined,
-            shebangCheck = msg.body[0] === "#";
-
-    if(check && shebangCheck){
-        msg.reply("Ketik #help untuk melihat daftar perintah. Untuk melihat bantuan setiap perintah, tambahkan *help* setelah perintah, misal _#seiyuu help_");
-        return;
-    }
-    
-    REGISTERS[split[0]](msg, client);
+    COMMAND_REGISTER.message_handler(msg, client);
 });
 
 client.initialize();

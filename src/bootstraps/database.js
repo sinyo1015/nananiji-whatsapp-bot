@@ -15,6 +15,10 @@ const ACTION = () => {
         updated_at TEXT,
         FOREIGN KEY (username_id) REFERENCES twitter_username_hooks(id) ON UPDATE CASCADE ON DELETE CASCADE
     );`);
+    db.exec(`CREATE TABLE IF NOT EXISTS blocked_whatsapp_numbers(
+        id INTEGER PRIMARY KEY AUTOINCREMENT,
+        whatsapp_number TEXT NOT NULL
+    );`);
 };
 
 module.exports = ACTION;
